@@ -1,2 +1,4 @@
-# bank_marketing_classification
-This repository contains my work on classification using the Bank Marketing dataset.
+# Abstract
+Machine learning models are a viable tool in understanding trends and making predictions about future events. In this project, classification models were analyzed in the context of predicting client subscription to term deposits using the "Bank Marketing" dataset. Term deposit subscription is influenced by several factors, such as last contact duration and age. PyCaret's classification module was used for preprocessing, model selection, and evaluation. Out of all the models that were tested, Light Gradient Boosting Machine (LightGBM) achieved the best performance, with an accuracy of 91%. This study demonstrates how machine learning model selection and evaluation is an appropriate approach for optimizing predictions for marketing analytics, providing insights for practical applications in similar circumstances.
+
+Video Presentation: https://youtu.be/79DFwaM2GZ0
